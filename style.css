@@ -1,0 +1,115 @@
+body{
+	width:100%;
+}
+
+#cuadroRojo{
+	margin:50px 0 70px 360px;
+	/*border:2px red solid;*/
+	width:500px;
+	height:660px;
+	background-color:#a5384f;
+	position:absolute;
+}
+
+#pcuadroSuperior{
+	margin:20px 0 0 25px;
+	/*border:2px green solid;*/
+	width:450px;
+	height:400px;
+	position:relative;
+	background-color:#2a2428
+}
+
+#pcuadroInferior{
+	margin:10px 0 0 25px;
+	width:450px;
+	height:215px;
+	position:relative;
+	background-color:#2a2428;
+}
+
+#cuadrosRosas{
+	margin:780px 0 70px 410px;
+	width:400px;
+	height:700px;
+	background-color:#f0b8b6;
+	position:absolute;
+}
+
+#scuadroSuperior{
+	margin:10px 0 0 15px;
+	width:370px;
+	height:360px;
+	background-color:#e65961;
+	position:relative;
+}
+
+#scuadroMedio{
+	margin:0 0 0 15px;
+	width:370px;
+	height:100px;
+	background-color:#EA7F94;
+}
+
+#scuadroInferior{
+	margin:0 0 0 15px;
+	width:370px;
+	height:220px;
+	background-color:#E56F4F;
+}
+
+#muchosColores{
+	margin:1550px 0 50px 390px;
+	width:450px;
+	height:550px;
+	background-color:#D4D8D5;
+	position:absolute;
+}
+
+#rectanguloNegro{
+	margin:20px 0 0 15px;
+	width:420px;
+	height:520px;
+	background-color:#141310;
+	position:relative;
+	position:absolute;
+}
+
+#rectanguloAmarillo{
+	margin:30px 0 0 0;
+	width:420px;
+	height:75px;
+	background-color:#E79C00;
+	position:relative;
+}
+
+
+#rectanguloBlanco{
+	width:420px;
+	height:35px;
+	background-color:#E2D2D3;
+	position:relative;
+}
+
+#rectanguloRosa{
+	width:420px;
+	height:35px;
+	background-color:#E7BBBC;
+	position:relative;
+}
+
+#srectanguloAmarillo{
+	margin:100px 0 0 60px;
+	width:360px;
+	height:10px;
+	background-color:#E79C00;
+	position:relative;
+}
+
+#rectanguloAzul{
+	margin:80px 0 0 0;
+	width:420px;
+	height:5px;
+	background-color:#BFCACF;
+	position:relative;
+}
